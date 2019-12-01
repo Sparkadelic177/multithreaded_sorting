@@ -1,2 +1,3 @@
 # multithreaded_sorting
-Sorting an array of integers passed by a binary file using the c library posix threads.
+Sorting an array of integers passed as an binary file. 
+Using the C library posix threads to sort the array
